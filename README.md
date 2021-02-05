@@ -7,7 +7,9 @@ In the series of projects which include unsupervised models, they will be using 
       * Data Visualization
       * Machine Learning Model Development
       * ML Explanation
-      * Result and Findings Communication
+      * Result and Findings CommunicationI
       * Report Generation and Explanation
       
 Python crash course, Pandas skill test, matplotlib crash course and lots of other ML projects. if you have suggestions to make this repository better please make a PR
+
+`In a few months i want to be able to apply the skills i've learned at CodeSquad in animation.`
